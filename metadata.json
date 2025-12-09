@@ -1,0 +1,5 @@
+{
+  "name": "NetJam Sim - Dynamic Network Jamming Simulator",
+  "description": "A React application simulating a dynamic wireless sensor network under various jamming attacks (Constant, Reactive, Random, Sweep, Intelligent). Includes real-time visualization, metric tracking (PDR, Throughput), CSV export for ML training, and Gemini-powered analysis.",
+  "requestFramePermissions": []
+}
